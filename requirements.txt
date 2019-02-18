@@ -1,0 +1,2 @@
+youtube_dl>=0
+requests>=0
