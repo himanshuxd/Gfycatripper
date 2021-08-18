@@ -4,7 +4,7 @@ import youtube_dl
 import argparse
 import requests
 
-__author__ = "Himanshu Sharma"
+__author__ = "Himanshu S"
 __license__ = "MIT"
 __version__ = "1.0"
 __maintainer__ = "himanshuxd"
